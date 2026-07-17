@@ -1,0 +1,7 @@
+{
+  "name": "nightly-batch",
+  "private": true,
+  "type": "module",
+  "scripts": { "run": "node run.mjs" },
+  "dependencies": { "@supabase/supabase-js": "^2.45.0" }
+}
